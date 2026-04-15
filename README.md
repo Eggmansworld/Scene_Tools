@@ -1,7 +1,6 @@
 # :pirate_flag: Eggman's Scene Tools :pirate_flag:
 
 
-**Version:** 1.1  
 **Platform:** Windows (Python 3.10+)  
 **GUI:** Tkinter (dark theme, no external UI framework required)
 
