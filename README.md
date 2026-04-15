@@ -1,4 +1,5 @@
-# 🎬 Eggman's Scene Tools
+# :pirate_flag: Eggman's Scene Tools :skull_and_crossbones:
+
 
 **Version:** 1.1  
 **Platform:** Windows (Python 3.10+)  
@@ -316,6 +317,24 @@ The **Comment Repair** tab does not auto-save a file log — use the **Save Log*
 
 ---
 
-## License
+## Licensing
 
-This project is released for personal and archival use. No warranty is provided. Use at your own risk.
+Original source code, scripts, tooling, and hand-authored documentation and
+metadata in this repository are licensed under the MIT License.
+
+Archived game data, binaries, firmware, media assets, and other third-party
+materials are **not** covered by the MIT License and remain the property of
+their respective copyright holders.
+
+See the `LICENSE` and `NOTICE` files for full details and scope clarification.
+
+---
+
+## CREDITS
+
+Created for the preservation community by Eggman, with Claude’s help turning ideas into code.
+
+If you improve the script, feel free to share your changes back with the community.
+
+*Made with ❤️ for the retro game preservation community.*
+---
