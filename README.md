@@ -1,4 +1,4 @@
-# :pirate_flag: Eggman's Scene Tools :skull_and_crossbones:
+# :pirate_flag: Eggman's Scene Tools :pirate_flag:
 
 
 **Version:** 1.1  
@@ -11,7 +11,7 @@ A growing collection of utilities for working with **scene releases** — the st
 
 ---
 
-## 📋 Table of Contents
+## :skull_and_crossbones: Table of Contents
 
 - [Overview](#overview)
 - [Requirements](#requirements)
@@ -91,35 +91,26 @@ NOTE: This app function does require you to retrieve the original scene dats fro
 
 If the download icon brings you to a "Get Scene DATs" screen with a big red SETTINGS button, it means you have NOT yet setup the site's cookies. There are 8 site setting cookies that will determine how the website will format and configure the dats before you download them.  These are my settings for a typical setup, but you can change it so the dats look any way you want them to.  
 
-1. which DATEFORMAT will be used in the front of Release DIR:
-	0 - NO DATE
+`which DATEFORMAT will be used in the front of Release DIR:` 0 - NO DATE
  
-2. You want to use: <clrmamepro forcepacking="unzip"/> in the DAT?
-	1 - YES
+`You want to use: <clrmamepro forcepacking="unzip"/> in the DAT?` 1 - YES
  
-3. Choose how Releases should be sorted in the DATs:
-	0 - Alphabetical
+`Choose how Releases should be sorted in the DATs:` 0 - Alphabetical
  
-4. Choose in which direction Releases should be sorted in the DATs:
-	0 - ASC (ascending)
+`Choose in which direction Releases should be sorted in the DATs:` 0 - ASC (ascending)
  
-5. Choose if you want to include NUKED releases or not:
-	1 - YES, include
+` Choose if you want to include NUKED releases or not:` 1 - YES, include
  
-6. Choose if you want to include possible P2P releases or not:
-	0 - NO, exclude
+`Choose if you want to include possible P2P releases or not:` 0 - NO, exclude
  
-7. Choose if you want that Year Releases are placed into Month Subfolders or not:
-	0 - NO, Month Subfolders NOT needed
+`Choose if you want that Year Releases are placed into Month Subfolders or not:` 0 - NO, Month Subfolders NOT needed
  
-8. Choose if you want that prefix [NUKED] is set in front of your Releasename:
-	1 - YES
+` Choose if you want that prefix [NUKED] is set in front of your Releasename:` 1 - YES
  
 
 When you've set all 8 cookie settings, it will show you a green "Your Browser Cookies are enabled".  Scroll down and click on "Back to DATs".  You'll now be able to download any of the dats on the site and they will be setup to the preferences you've set.  You can change these options anytime you want to fit your own needs.
 
-You must have cookies enabled in your browser for this site to allow you to download from it.  
-
+You must have cookies enabled in your browser for this site to allow you to download from it. If you clear your browser's cookies and wipe these cookies out, you'll need to set them up again.
 
 Alternately, you can get all these dats from RomVault's DATVAULT, including all updates as they are released.  Subscription required.
 
