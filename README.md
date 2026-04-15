@@ -8,6 +8,8 @@
 
 A growing collection of utilities for working with **scene releases** — the structured, NFO/SFV-accompanied archive releases distributed by the warez scene. Built around the workflows of RomVault and [dats.site](https://dats.site/home.php), this toolset helps manage DAT files and ZIP archives in a way that keeps data pristine and catalogue-ready.
 
+<img width="1536" height="1024" alt="Eggmans_Scene_Tools 1" src="https://github.com/user-attachments/assets/30c6ee44-ee7f-4119-9fc5-f0e3329e8fa8" />
+
 ---
 
 ## :skull_and_crossbones: Table of Contents
